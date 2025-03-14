@@ -1,0 +1,5997 @@
+[
+    {
+        "id": 18014,
+        "sku": "NX.KHEEC.003",
+        "price": "3690",
+        "name": "מחשב נייד Acer Aspire 5 15 A515-58M-7645 NX.KHEEC.003 (2023)",
+        "stock_quantity": -3.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/acer-aspire-5-15-a515-58m-7645-nx-kheec-003-2023/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD WebCam"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.77 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DC-in jack for power adapter HDMI 2.1 USB 3.2 port with power-off charging USB 3.2 port USB Type-C port /Thunderbolt™ 4 port Power button Power indicator Battery indicator Headset/speaker jack USB 3"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "39.6m (15.6\") ComfyView In-plane Switching (IPS) Technology Full HD 1920x1080"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "A515-58M-7645"
+                ]
+            },
+            {
+                "id": 132,
+                "name": "חריצי-זכרון-פנו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "0"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wireless Wi-Fi 6 AX201 + Bluetooth 5.1"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "onboard LPDDR5"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Steel Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שלוש שנים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-1355U Processor 12M Cache, up to 5.00 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Iris® Xe Graphics eligible"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "50Wh Li-ion battery - 65W"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 Home"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 41,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 29120,
+        "sku": "NH.QNBEC.00K",
+        "price": "4590",
+        "name": "מחשב נייד Acer Nitro V15 ANV15-51 V15 RTX 4050 NH.QNBEC.00K ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-nitro-v15-anv15-51-v15-rtx-4050-nh-qnbec-00k-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            },
+            {
+                "id": 1229,
+                "name": "מחשבים ניידים לגיימינג",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%92%d7%99%d7%99%d7%9e%d7%99%d7%a0%d7%92"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD webcam with 1280 x 720 resolution and 720p HD audio/video recording."
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.10 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB 3.2 X3 / Thunderbolt 4 x1 / HDMI X1 / RJ45 X1 / Audio Jeck x1"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "FHD IPS 144Hz SlimBezel"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel EL 2 802.11AX + BT"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-4800"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Shale Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce® RTX 4050 with 6GB of dedicated GDDR6 VRAM"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "57.0WH 4-Cell Li-ion Bettey"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 42,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 31221,
+        "sku": "NH.QNCEC.009",
+        "price": "3990",
+        "name": "מחשב נייד Acer Nitro V15 ANV15-51-751S NH.QNCEC.009 RTX 3050 ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-nitro-v15-anv15-51-751s-nh-qncec-009-rtx-3050-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            },
+            {
+                "id": 1229,
+                "name": "מחשבים ניידים לגיימינג",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%92%d7%99%d7%99%d7%9e%d7%99%d7%a0%d7%92"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD webcam with 1280 x 720 resolution and 720p HD audio/video recording."
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.10 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB 3.2 X3 / Thunderbolt 4 x1 / HDMI X1 / RJ45 X1 / Audio Jeck x1"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "FHD IPS 144Hz SlimBezel"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel EL 2 802.11AX + BT"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-4800"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Shale Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce® RTX 3050 with 6GB of dedicated GDDR6 VRAM"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "57.0WH 4-Cell Li-ion Bettey"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 42,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 31227,
+        "sku": "NH.QNBEC.009",
+        "price": "4590",
+        "name": "מחשב נייד Acer Nitro V15 ANV15-51-76V0 NH.QNBEC.009 RTX 4050 ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-nitro-v15-anv15-51-76v0-nh-qnbec-009-rtx-4050-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            },
+            {
+                "id": 1229,
+                "name": "מחשבים ניידים לגיימינג",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%92%d7%99%d7%99%d7%9e%d7%99%d7%a0%d7%92"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD webcam with 1280 x 720 resolution and 720p HD audio/video recording."
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.10 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB 3.2 X3 / Thunderbolt 4 x1 / HDMI X1 / RJ45 X1 / Audio Jeck x1"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "FHD IPS 144Hz SlimBezel"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel EL 2 802.11AX + BT"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-4800"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Shale Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce® RTX 4050 with 6GB of dedicated GDDR6 VRAM"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "57.0WH 4-Cell Li-ion Bettey"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 42,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 33626,
+        "sku": "NH.QQEEC.007",
+        "price": "4890",
+        "name": "מחשב נייד Acer Nitro V15 ANV15-51 V15 RTX 4060 NH.QQEEC.007 ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-nitro-v15-anv15-51-v15-rtx-4060-nh-qqeec-007-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            },
+            {
+                "id": 1229,
+                "name": "מחשבים ניידים לגיימינג",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%92%d7%99%d7%99%d7%9e%d7%99%d7%a0%d7%92"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD webcam with 1280 x 720 resolution and 720p HD audio/video recording."
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.10 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB 3.2 X3 / Thunderbolt 4 x1 / HDMI X1 / RJ45 X1 / Audio Jeck x1"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "FHD IPS 144Hz SlimBezel"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel EL 2 802.11AX + BT"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-4800"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Shale Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce® RTX 4060 with 8GB of dedicated GDDR6 VRAM"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "57.0WH 4-Cell Li-ion Bettey"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 42,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 34037,
+        "sku": "NH.QNNEC.005",
+        "price": "7390",
+        "name": "Acer Predator Helios Neo 16 PHN16 Gaming Notebook / NH.QNNEC.005",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-predator-helios-neo-16-phn16-gaming-notebook-nh-qnnec-005/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            },
+            {
+                "id": 1229,
+                "name": "מחשבים ניידים לגיימינג",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%92%d7%99%d7%99%d7%9e%d7%99%d7%a0%d7%92"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 Home"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\" WQXGA 2560x1600 16:10 IPS 165Hz DCI-P3 100% 500nits Support DDS"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA GeForce RTX 4060 8GB GDDR6"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p HD video at 60 fps with Temporal Noise Reduction"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\""
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "90Wh Li-ion battery"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.80 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Interfaces/Ports HDMI Yes Number of HDMI Outputs 1 Number of USB 3.2 Gen 1 Type-A Ports 1 Number of USB 3.2 Gen 2 Type-A Ports 2 Number of USB 3.2 Gen 2 Type-C Ports 2 Total Number of USB Ports 5 USB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שלוש שנים"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wifi 6E Intel 802.11ax 2x2 CNVi Killer 1675i + BT 5.3"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 130,
+                "name": "ערכת שבבים",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Mobile Intel® HM770 PCH Chipset"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Predator"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Predator Helios Neo 16"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Abyssal Black"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i9"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i9-14900HX Processor (36M Cache, up to 5.60GHz)"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "14th Generation"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SO-DIMM DDR5-5600"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 38,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 39,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 40,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 41,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 42,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Predator"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 34042,
+        "sku": "NX.KVUEC.005",
+        "price": "3190",
+        "name": "מחשב נייד Acer Aspire 15 A15-51M-55P0 NX.KVUEC.005",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-aspire-15-a15-5-nx-kvuec-005/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD WebCam"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.77 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DC-in jack for power adapter HDMI 2.1 USB 3.2 port with power-off charging USB 3.2 port USB Type-C port /Thunderbolt™ 4 port Power button Power indicator Battery indicator Headset/speaker jack USB 3"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "39.6m (15.6\") ComfyView In-plane Switching (IPS) Technology Full HD 1920x1080"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wireless Wi-Fi 6 AX201 + Bluetooth 5.1"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "onboard LPDDR5"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Steel Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שלוש שנים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ 5-120U 12M Cache, up to 5.00 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Iris® Xe Graphics eligible"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "50Wh Li-ion battery - 65W"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core 5"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 Home"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 41,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 34188,
+        "sku": "NX.ADDEC.01R",
+        "price": "2390",
+        "name": "Acer Aspire 3 15 A315-58-58RS NX.ADDEC.01R",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/acer-aspire-3-15-a315-58-58rs-nx-addec-01r/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 Home"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "FHD Acer ComfyView LED LCD"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1280x720 Intergrated HD Webcam"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3cell Lithium Ion (Li-Ion) 48Wh Li-ion battery"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.84 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "TWO USB 3.2 Gen 1 ports | one x USB type C port | HDMI 2.0 | 3.5mm headphone jack | LAN RJ 45+(blank)"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "IEEE 802.11 a/g/n/ac/ax + Bluetooth 5.0"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "11th Generation"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire 3"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Pure Silver"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i5"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR4"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® HD Graphics"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 34194,
+        "sku": "NX.ADDEC.01P",
+        "price": "2190",
+        "name": "Acer Aspire 3 15 A315-58-52QR NX.ADDEC.01P",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/acer-aspire-3-15-a315-58-52qr-nx-addec-01p/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 Home"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "FHD Acer ComfyView LED LCD"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1280x720 Intergrated HD Webcam"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3cell Lithium Ion (Li-Ion) 48Wh Li-ion battery"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.84 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "TWO USB 3.2 Gen 1 ports | one x USB type C port | HDMI 2.0 | 3.5mm headphone jack | LAN RJ 45+(blank)"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "IEEE 802.11 a/g/n/ac/ax + Bluetooth 5.0"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "11th Generation"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire 3"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Pure Silver"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i5"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR4"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® HD Graphics"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 34203,
+        "sku": "NX.ADDET.023",
+        "price": "1649",
+        "name": "Acer Aspire 3 15 A315-58-37YJ NX.ADDET.023",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/acer-aspire-3-15-a315-58-37yj-nx-addet-023/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 S"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "FHD Acer ComfyView LED LCD"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1280x720 Intergrated HD Webcam"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3cell Lithium Ion (Li-Ion) 48Wh Li-ion battery"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.84 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "TWO USB 3.2 Gen 1 ports | one x USB type C port | HDMI 2.0 | 3.5mm headphone jack | LAN RJ 45+(blank)"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "IEEE 802.11 a/g/n/ac/ax + Bluetooth 5.0"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "11th Generation"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire 3"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Pure Silver"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i3"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i3-1115G4 Dual Core Processor, 6M Cache, 3.0 GHz up to 4.1 GHz"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "128GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR4"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® HD Graphics"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 35056,
+        "sku": "NH.QRFEC.001",
+        "price": "6190",
+        "name": "מחשב נייד Acer Predator Helios Neo 16 PHN16 Gaming Notebook NH.QRFEC.001 ללא מערכת הפעלה",
+        "stock_quantity": -3.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-predator-helios-neo-16-phn16-gaming-notebook-nh-qrfec-001/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            },
+            {
+                "id": 1229,
+                "name": "מחשבים ניידים לגיימינג",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%92%d7%99%d7%99%d7%9e%d7%99%d7%a0%d7%92"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\" WQXGA 2560x1600 16:10 IPS 165Hz DCI-P3 100% 500nits Support DDS"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA GeForce RTX 4060 8GB GDDR6"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p HD video at 60 fps with Temporal Noise Reduction"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\""
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "90Wh Li-ion battery"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.80 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Interfaces/Ports HDMI Yes Number of HDMI Outputs 1 Number of USB 3.2 Gen 1 Type-A Ports 1 Number of USB 3.2 Gen 2 Type-A Ports 2 Number of USB 3.2 Gen 2 Type-C Ports 2 Total Number of USB Ports 5 USB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wifi 6E Intel 802.11ax 2x2 CNVi Killer 1675i + BT 5.3"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 130,
+                "name": "ערכת שבבים",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Mobile Intel® HM770 PCH Chipset"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Predator"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Predator Helios Neo 16"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Abyssal Black"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i9"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i9-14900HX Processor (36M Cache, up to 5.60GHz)"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "14th Generation"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SO-DIMM DDR5-5600"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 38,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 39,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 40,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 41,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 42,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Predator"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 35602,
+        "sku": "NX.KVUEC.002",
+        "price": "3590",
+        "name": "מחשב נייד Acer Aspire 15 Everyday Laptop A15-51M-7508 NX.KVUEC.002 (2024)",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-aspire-15-everyday-laptop-a15-51m-7508-nx-kvuec-002-2024/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD WebCam"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.77 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DC-in jack for power adapter HDMI 2.1 USB 3.2 port with power-off charging USB 3.2 port USB Type-C port /Thunderbolt™ 4 port Power button Power indicator Battery indicator Headset/speaker jack USB 3"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6” FHD (1920x1080) LED-backlit TFT LCD Display"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wireless Wi-Fi 6 AX201 + Bluetooth 5.1"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "onboard LPDDR5"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Steel Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שלוש שנים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ 7-150U 12M Cache, up to 5.40 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Graphics"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "50Wh Li-ion battery - 65W"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core 7"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 Home"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 41,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 38592,
+        "sku": "NX.KVUEC.001",
+        "price": "3290",
+        "name": "מחשב נייד Acer Aspire 15 A15-51M-57V2 NX.KVUEC.001",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-aspire-15-a15-51m-57v2-nx-kvuec-001/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD WebCam"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.77 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DC-in jack for power adapter HDMI 2.1 USB 3.2 port with power-off charging USB 3.2 port USB Type-C port /Thunderbolt™ 4 port Power button Power indicator Battery indicator Headset/speaker jack USB 3"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "39.6m (15.6\") ComfyView In-plane Switching (IPS) Technology Full HD 1920x1080"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wireless Wi-Fi 6 AX201 + Bluetooth 5.1"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "onboard LPDDR5"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Steel Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שלוש שנים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ 5-120U 12M Cache, up to 5.00 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Iris® Xe Graphics eligible"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "50Wh Li-ion battery - 65W"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core 5"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 Home"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 41,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 38596,
+        "sku": "NX.KVUEC.004",
+        "price": "2449",
+        "name": "מחשב נייד Acer Aspire 15 A15-51M-39AS NX.KVUEC.004",
+        "stock_quantity": -1.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%99%d7%99%d7%93-acer-aspire-15-a15-51m-39as-nx-kvuec-004/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD WebCam"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.77 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DC-in jack for power adapter HDMI 2.1 USB 3.2 port with power-off charging USB 3.2 port USB Type-C port /Thunderbolt™ 4 port Power button Power indicator Battery indicator Headset/speaker jack USB 3"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "39.6m (15.6\") ComfyView In-plane Switching (IPS) Technology Full HD 1920x1080"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wireless Wi-Fi 6 AX201 + Bluetooth 5.1"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "onboard LPDDR5"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Steel Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שלוש שנים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ 3-100U 10M Cache, up to 4.70 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Iris® Xe Graphics eligible"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "50Wh Li-ion battery - 65W"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core 3"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 Home"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 41,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Aspire"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 50064,
+        "sku": "NH.QQEEC.00R",
+        "price": "5490",
+        "name": "Acer Nitro V15 / RTX 4060 / NH.QQEEC.00R / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/acer-nitro-v15-rtx-4060-nh-qqeec-00r-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 11002,
+                "name": "מחשבים ניידים Acer",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-acer"
+            },
+            {
+                "id": 1229,
+                "name": "מחשבים ניידים לגיימינג",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%92%d7%99%d7%99%d7%9e%d7%99%d7%a0%d7%92"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD webcam with 1280 x 720 resolution and 720p HD audio/video recording."
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.10 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB 3.2 X3 / Thunderbolt 4 x1 / HDMI X1 / RJ45 X1 / Audio Jeck x1"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 11,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "FHD IPS 144Hz SlimBezel"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Nitro"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel EL 2 802.11AX + BT"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-4800"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Shale Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i9-13900H Processor 24M Cache, up to 5.40 GHz"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce® RTX 4060 with 8GB of dedicated GDDR6 VRAM"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "57.0WH 4-Cell Li-ion Bettey"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i9"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Acer"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "V15"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4060"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    }
+]

@@ -1,0 +1,4738 @@
+[
+    {
+        "id": 1473,
+        "sku": "Z15Z000E0",
+        "price": "6327",
+        "name": "מחשב נייד Apple MacBook Air 13 M2 (Mid 2022) Z15Z000E0 Starlight (16GB) 10-core GPU",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-13-m2-mid-2022-z15z000e0-starlight-16gb-10-core-gpu/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12638,
+                "name": "MacBook Air 13",
+                "slug": "macbook-air-13"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.24 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for:"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB-C to MagSafe 3 Cable Four-speaker sound system Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 13.6-inch (diagonal) LED-backlit display with IPS technology;1 2560-by-1664 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13.6\""
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13 M2 2022"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Bluetooth 5.0 wireless technology"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Starlight"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core CPU with 4 performance cores and 4 efficiency cores 8-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "10-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "52.6-watt‑hour lithium‑polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 1478,
+        "sku": "Z160000RD",
+        "price": "6327",
+        "name": "מחשב נייד Apple MacBook Air 13 M2 (Mid 2022) GPU 8C Z160000RD Midnight (16GB) 10-core GPU",
+        "stock_quantity": null,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-13-m2-mid-2022-gpu-8c-z160000rd-midnight-16gb-10-core-gpu/",
+        "categories": [
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12638,
+                "name": "MacBook Air 13",
+                "slug": "macbook-air-13"
+            },
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.24 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for:"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB-C to MagSafe 3 Cable Four-speaker sound system Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 13.6-inch (diagonal) LED-backlit display with IPS technology;1 2560-by-1664 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13.6\""
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13 M2 2022"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Bluetooth 5.0 wireless technology"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Midnight"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core CPU with 4 performance cores and 4 efficiency cores 8-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "52.6-watt‑hour lithium‑polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 4527,
+        "sku": "MLY23HB/A",
+        "price": "5422",
+        "name": "מחשב נייד Apple MacBook Air 13 M2 (Mid 2022) GPU 8C MLY23HB/A Starlight",
+        "stock_quantity": null,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-13-m2-mid-2022-gpu-8c-mly23hb-a-starlight/",
+        "categories": [
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12638,
+                "name": "MacBook Air 13",
+                "slug": "macbook-air-13"
+            },
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.24 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for:"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB-C to MagSafe 3 Cable Four-speaker sound system Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 13.6-inch (diagonal) LED-backlit display with IPS technology;1 2560-by-1664 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13.6\""
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13 M2 2022"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Bluetooth 5.0 wireless technology"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Starlight"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core CPU with 4 performance cores and 4 efficiency cores 8-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "10-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "52.6-watt‑hour lithium‑polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 4636,
+        "sku": "MLY03HB/A",
+        "price": "5422",
+        "name": "מחשב נייד Apple MacBook Air 13 M2 (Mid 2022) GPU 8C MLY03HB/A Silver",
+        "stock_quantity": null,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-13-m2-mid-2022-gpu-8c-mly03hb-a-silver/",
+        "categories": [
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12638,
+                "name": "MacBook Air 13",
+                "slug": "macbook-air-13"
+            },
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.24 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for:"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB-C to MagSafe 3 Cable Four-speaker sound system Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 13.6-inch (diagonal) LED-backlit display with IPS technology;1 2560-by-1664 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13.6\""
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13 M2 2022"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Bluetooth 5.0 wireless technology"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Silver"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core CPU with 4 performance cores and 4 efficiency cores 10-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "10-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "52.6-watt‑hour lithium‑polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 4640,
+        "sku": "MLXW3HB/A",
+        "price": "4518",
+        "name": "מחשב נייד Apple MacBook Air 13 M2 (Mid 2022) GPU 8C MLXW3HB/A Space Gray",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-13-m2-mid-2022-gpu-8c-mlxw3hb-a-space-gray/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12638,
+                "name": "MacBook Air 13",
+                "slug": "macbook-air-13"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.24 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for:"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB-C to MagSafe 3 Cable Four-speaker sound system Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 13.6-inch (diagonal) LED-backlit display with IPS technology;1 2560-by-1664 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13.6\""
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13 M2 2022"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Bluetooth 5.0 wireless technology"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Space Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "256GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core CPU with 4 performance cores and 4 efficiency cores 8-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "52.6-watt‑hour lithium‑polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 11751,
+        "sku": "Z15Y000RC",
+        "price": "6182",
+        "name": "מחשב נייד Apple MacBook Air 13 M2 (Mid 2022) Z15Y000RC Starlight (16GB)",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-13-m2-mid-2022-z15y000rc-starlight-16gb/",
+        "categories": [
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12638,
+                "name": "MacBook Air 13",
+                "slug": "macbook-air-13"
+            },
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.24 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for:"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB-C to MagSafe 3 Cable Four-speaker sound system Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 13.6-inch (diagonal) LED-backlit display with IPS technology;1 2560-by-1664 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13.6\""
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13 M2 2022"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Bluetooth 5.0 wireless technology"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Starlight"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core CPU with 4 performance cores and 4 efficiency cores 8-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "52.6-watt‑hour lithium‑polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 11761,
+        "sku": "Z15W000RD",
+        "price": "6182",
+        "name": "מחשב נייד Apple MacBook Air 13 M2 (Mid 2022) GPU 8C Z15W000RD Silver (16GB)",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-13-m2-mid-2022-gpu-8c-z15w000rd-silver-16gb/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12638,
+                "name": "MacBook Air 13",
+                "slug": "macbook-air-13"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.24 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for:"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "USB-C to MagSafe 3 Cable Four-speaker sound system Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 13.6-inch (diagonal) LED-backlit display with IPS technology;1 2560-by-1664 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13.6\""
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13 M2 2022"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Bluetooth 5.0 wireless technology"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Silver"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core CPU with 4 performance cores and 4 efficiency cores 8-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "52.6-watt‑hour lithium‑polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 16277,
+        "sku": "MQKT3HB/A",
+        "price": "6384",
+        "name": "Apple MacBook Air 15 2023 M2 chip 8-Core GPU 10C Silver",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-15-2023-m2-chip-8-core-gpu-10c-silver/",
+        "categories": [
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12639,
+                "name": "MacBook Air 15",
+                "slug": "macbook-air-15"
+            },
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 15.3-inch (diagonal) LED-backlit display with IPS technology;1 2880-by-1864 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wi-Fi 6 (802.11ax) + Bluetooth 5.3"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera Advanced image signal processor with computational video"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.51kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for: Touch ID"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Six-speaker sound system with force-cancelling woofers Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers Spatial Audio with dynamic head tra"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2880x1864"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.3\""
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 15"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2023"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Silver"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple M2 chip 8-core CPU with 4 performance cores and 4 efficiency cores 10-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "10-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "66.5-watt?hour lithium?polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 39,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 16355,
+        "sku": "MQKQ3HB/A",
+        "price": "6384",
+        "name": "מחשב נייד Apple MacBook Air 15 2023 M2 chip  8-Core GPU 10C Space Gray",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-15-2023-m2-chip-8-core-gpu-10c-space-gray/",
+        "categories": [
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12639,
+                "name": "MacBook Air 15",
+                "slug": "macbook-air-15"
+            },
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wi-Fi 6 (802.11ax) + Bluetooth 5.3"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 15"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Space Gray"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2023"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple M2 chip 8-core CPU with 4 performance cores and 4 efficiency cores 10-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "512GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2880x1864"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "10-core GPU"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera Advanced image signal processor with computational video"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "66.5-watt?hour lithium?polymer battery"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.3\""
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.51kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for: Touch ID"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Six-speaker sound system with force-cancelling woofers Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers Spatial Audio with dynamic head tra"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 15.3-inch (diagonal) LED-backlit display with IPS technology;1 2880-by-1864 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 38,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 16356,
+        "sku": "MQKP3HB/A",
+        "price": "5470",
+        "name": "מחשב נייד Apple MacBook Air 15 2023 M2 chip 8-Core GPU 10C Space Gray",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-15-2023-m2-chip-8-core-gpu-10c-space-gray-2/",
+        "categories": [
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12639,
+                "name": "MacBook Air 15",
+                "slug": "macbook-air-15"
+            },
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera Advanced image signal processor with computational video"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Liquid Retina display 15.3-inch (diagonal) LED-backlit display with IPS technology;1 2880-by-1864 native resolution at 224 pixels per inch with support for 1 billion colors 500 nits brightness Wide c"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.51kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MagSafe 3 charging port 3.5 mm headphone jack Two Thunderbolt / USB 4 ports with support for: Touch ID"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Six-speaker sound system with force-cancelling woofers Wide stereo sound Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers Spatial Audio with dynamic head tra"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 15"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2880x1864"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2023"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.3\""
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Wi-Fi 6 (802.11ax) + Bluetooth 5.3"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Space Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "256GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple M2 chip 8-core CPU with 4 performance cores and 4 efficiency cores 10-core GPU 16-core Neural Engine 100GB/s memory bandwidth"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "10-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "66.5-watt?hour lithium?polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M2"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 39,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 8525,
+        "sku": "MK1F3HB/A",
+        "price": "7490",
+        "name": "מחשב נייד Apple MacBook Pro 16\" Late 2021 M1 Pro Silver MK1F3HB/A",
+        "stock_quantity": 3.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-pro-16-late-2021-m1-pro-silver-mk1f3hb-a/",
+        "categories": [
+            {
+                "id": 12634,
+                "name": "MacBook Pro",
+                "slug": "macbook-pro"
+            },
+            {
+                "id": 12637,
+                "name": "MacBook Pro 16",
+                "slug": "macbook-pro-16"
+            },
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 642,
+                "name": "מחשבים ניידים לעסקים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a2%d7%a1%d7%a7%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1080p FaceTime HD camera Advanced image signal processor with computational video"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16.2-inch (diagonal) Liquid Retina XDR display, 3456x2234 native resolution at 254 pixels per inch"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.1kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1x SDXC card slot 1x HDMI port 1x 3.5 mm headphone jack 1x MagSafe 3 port 3x Thunderbolt 4 (USB-C) ports with support for: Charging, DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s)"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1x 140W USB-C Power Adapter 1x USB-C to MagSafe 3 Cable (2 m)"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מבריק"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3456x2234"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16.2\""
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11ax Wi-Fi 6 wireless networking &amp; Bluetooth 5.0 wireless technology"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Pro 16"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Pro"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Silver"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple M1 Pro chip"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple 16-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "100-watt-hour lithium-polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M1 Pro"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "instock"
+    },
+    {
+        "id": 12083,
+        "sku": "MGN63HB/A",
+        "price": "3190",
+        "name": "מחשב נייד Apple MacBook Air 13 M1 2020 GPU 7C MGN63HB/A Space Gray",
+        "stock_quantity": 1.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/apple-macbook-air-13-m1-2020-gpu-7c-mgn63hb-a-space-gray/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 716,
+                "name": "מחשבים ניידים Apple",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-apple"
+            },
+            {
+                "id": 12633,
+                "name": "MacBook Air",
+                "slug": "macbook-air"
+            },
+            {
+                "id": 12638,
+                "name": "MacBook Air 13",
+                "slug": "macbook-air-13"
+            },
+            {
+                "id": 717,
+                "name": "מחשבים ניידים לסטודנטים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors 400nits brightness Wide color (P3) True Tone tec"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "720p FaceTime HD camera"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13.3\""
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.29 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Two Thunderbolt / USB 4 ports with support for: Charging DisplayPort Thunderbolt 3 (up to 40Gb/s) USB 3.1 Gen 2 (up to 10Gb/s)"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "תוספות-למוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "30W USB-C Power Adapter; USB-C power port"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "במעבדות היבואן הרשמי"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11ax Wi-Fi 6 wireless networking &amp; Bluetooth 5.0 wireless technology"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "דגם",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air 13 M1 2020"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "SSD"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "משפחה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MacBook Air"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "unified memory"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Space Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "256GB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנה"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "8GB"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple M1 chip 8-core CPU with 4 perform­ance cores and 4 efficiency cores 7-core GPU"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Built-in 49 watt hour lithiumn polymer battery"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "M1"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Apple"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "macOS"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "instock"
+    }
+]

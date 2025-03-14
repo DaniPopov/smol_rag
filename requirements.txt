@@ -1,0 +1,31 @@
+# Vector Database
+chromadb
+pinecone-client
+weaviate-client
+faiss-cpu
+
+
+# Embeddings and ML
+sentence-transformers
+torch
+transformers
+
+# Data Processing
+pandas
+numpy
+
+# Document Loading and Processing
+python-docx
+PyPDF2
+beautifulsoup4
+markdown
+
+# Utilities
+tqdm
+python-dotenv
+
+# Optional but useful for notebooks
+jupyter
+
+rank-bm25
+

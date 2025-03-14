@@ -1,0 +1,5689 @@
+[
+    {
+        "id": 51211,
+        "sku": "4711377275293",
+        "price": "3599",
+        "name": "MSI Modern 14 H D13MG-264XIL/ i5-13420H / Iris Xe / 16GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-modern-14-h-d13mg-264xil-iris-xe-16gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p) 3D Noise Reduction (3DNR)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1200"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "4-Cell Battery, 54WHr (Integrated)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.61 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "14” FHD+ (1920x1200), IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "14.0\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Modern"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "H D13MG"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i5"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i5-13420H Processor 12M Cache, up to 4.60 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR4-3200"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Iris Xe"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Graphics"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51224,
+        "sku": "4711377205726",
+        "price": "5999",
+        "name": "MSI Cyborg 14 A13VF / i7-13620H / RTX 4060 / 16GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-cyborg-14-a13vf-i7-13620h-rtx-4060-16gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1200"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "4-Cell Battery, 54WHr (Integrated)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.61 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "14” FHD+ (1920x1200), 144Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "14.0\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Cyborg"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "A13VF"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-5200"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6 powers advanced AI with 233 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4060"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51232,
+        "sku": "4711377205689",
+        "price": "4449",
+        "name": "MSI Thin 15 B13UC-1854XIL / i5-13420H / RTX 3050 / 16GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-thin-15-b13uc-1854xil-i5-13420h-rtx-3050-16gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3 cell, 52.4Whr"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.86 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\" FHD (1920x1080), 144Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Thin 15"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "B13UC"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i5"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i5-13420H Processor 12M Cache, up to 4.60 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR4-3200"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 3050 Laptop GPU 4GB GDDR6 128-bit"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Cosmos Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 3050"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51244,
+        "sku": "4711377205757",
+        "price": "5299",
+        "name": "MSI Thin 15 B13VE  / i7-13620H / RTX 4050 / 16GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-thin-15-b13ve-i7-13620h-rtx-4050-16gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3 cell, 52.4Whr"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.86 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\" FHD (1920x1080), 144Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Thin 15"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "B13VE"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR4-3200"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6 powers advanced AI with 194 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Cosmos Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4050"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51255,
+        "sku": "4711377205740",
+        "price": "5849",
+        "name": "MSI Cyborg 15 A13VFK / i7-13620H / RTX 4060 / 16GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-cyborg-15-a13vfk-i7-13620h-rtx-4060-16gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1200"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "4-Cell Battery, 54WHr (Integrated)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.98 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "14” FHD+ (1920x1200), 144Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "14.0\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Cyborg"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "A13VFK"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-5200"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6 powers advanced AI with 233 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Translucent black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4060"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51267,
+        "sku": "4711377205733",
+        "price": "5899",
+        "name": "MSI Katana 15 B13VEK / i7-13620H / RTX 4050 / 16GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-katana-15-b13vek-i7-13620h-rtx-4050-16gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3 cell, 52.4Whr"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.86 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\" FHD (1920x1080), 144Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "15.6\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Katana"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "B13VEK"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6 + Bluetooth v5.2"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-5200"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6 powers advanced AI with 194 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4050"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51279,
+        "sku": "4711377275231",
+        "price": "7399",
+        "name": "MSI Sword 16 HX B13VFKG / i7-13700HX / RTX 4060 / 32GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-sword-16-hx-b13vfkg-i7-13700hx-rtx-4060-32gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p) 3D Noise Reduction (3DNR)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1200"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3-Cell 53.5 Battery (Whr)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.6 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\" FHD+(1920 x 1200), 144Hz, IPS-level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Sword"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "B13VFKG"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13700HX Processor 30M Cache, up to 5.00 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5 5600"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6 powers advanced AI with 233 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Cosmos Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4060"
+                ]
+            },
+            {
+                "id": 130,
+                "name": "ערכת שבבים",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® HM770‎"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51288,
+        "sku": "4711377275316",
+        "price": "9249",
+        "name": "MSI Sword 16 HX B14VGKG / i7-14700HX / RTX 4070 / 32GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-sword-16-hx-b14vgkg-i7-14700hx-rtx-4070-32gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p) 3D Noise Reduction (3DNR)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1200"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "4-Cell 65 Battery (Whr)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.3kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\" FHD+(1920 x 1200), 144Hz, IPS-level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Sword"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "B14VGKG"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-14700HX 33M Cache, up to 5.50GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "96GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5 5600"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6 powers advanced AI with 321 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Cosmos Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4070"
+                ]
+            },
+            {
+                "id": 130,
+                "name": "ערכת שבבים",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® HM770‎"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51291,
+        "sku": "4711377275248",
+        "price": "10199",
+        "name": "MSI Crosshair 16 HX D14VGKG / i7-14700HX / RTX 4070 / 32GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-crosshair-16-hx-d14vgkg-i7-14700hx-rtx-4070-32gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p) 3D Noise Reduction (3DNR)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "4-Cell 90Whr Battery (Whr)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.5kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16” QHD+ (2560x1600), 240Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Crosshair"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "D14VGKG"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-14700HX 33M Cache, up to 5.50GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "96GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5 5600"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6 powers advanced AI with 321 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Cosmos Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4070"
+                ]
+            },
+            {
+                "id": 130,
+                "name": "ערכת שבבים",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® HM770‎"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51297,
+        "sku": "4711377275309",
+        "price": "18499",
+        "name": "MSI Stealth 16 AI Studio A1VHG / U9-185H / RTX 4080 / 64GB / 2TB / Win 11 Pro",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-stealth-16-ai-studio-a1vhg-u9-185h-rtx-4080-64gb-2tb-win-11pro/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Windows 11 Pro"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "IR FHD type (30fps@1080p) with HDR 3D Noise Reduction+ (3DNR+)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3840x2400"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "4-Cell 99.9 Battery (Whr)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1.98 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16” UHD+ (3840x2400), 120Hz, MiniLED, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Stealth"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "A1VHG"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core Ultra 9"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ Ultra 9-185H 24M Cache, up to 5.10 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "96GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5 5600"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4080 Laptop GPU 12GB GDDR6 powers advanced AI with 542 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Star blue"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4080"
+                ]
+            },
+            {
+                "id": 130,
+                "name": "ערכת שבבים",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® HM770‎"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51307,
+        "sku": "4711377205672",
+        "price": "5999",
+        "name": "MSI Katana 17 B13VEK / i7-13620H / RTX 4050 / 16GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-katana-17-b13vek-i7-13620h-rtx-4050-16gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3-Cell 53.5 Battery (Whr)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.6 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "17.3\" FHD (1920x1080), 144Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "17.3\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Katana"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "B13VEK"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6 + Bluetooth v5.2"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-5200"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6 powers advanced AI with 194 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4050"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51309,
+        "sku": "4711377205696",
+        "price": "6449",
+        "name": "MSI Katana 17 B13VFK / i7-13620H / RTX 4060 / 16GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-katana-17-b13vfk-i7-13620h-rtx-4060-16gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3-Cell 53.5 Battery (Whr)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.6 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "17.3\" FHD (1920x1080), 144Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "17.3\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Katana"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "B13VFK"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13620H Processor 24M Cache, up to 4.90 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6 + Bluetooth v5.2"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-5200"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6 powers advanced AI with 233 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4060"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51313,
+        "sku": "4711377205702",
+        "price": "8199",
+        "name": "MSI Katana 17 B13VGK / i7-13700H / RTX 4070 / 16GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-katana-17-b13vgk-i7-13700h-rtx-4070-16gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1920x1080"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "3-Cell 53.5 Battery (Whr)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.6 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "17.3\" FHD (1920x1080), 144Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "17.3\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "16GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Katana"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "B13VGK"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-13700H Processor 24M Cache, up to 5.00 GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6 + Bluetooth v5.2"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "64GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5-5200"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6 powers advanced AI with 321 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Black"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4070"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    },
+    {
+        "id": 51316,
+        "sku": "4711377275255",
+        "price": "10299",
+        "name": "MSI Crosshair 17 HX D14VGKG / i7-14700HX / RTX 4070 / 32GB / 1TB / ללא מערכת הפעלה",
+        "stock_quantity": 0.0,
+        "catalog_visibility": "visible",
+        "type": "simple",
+        "status": "publish",
+        "backorders_allowed": true,
+        "permalink": "https://www.pc365.co.il/product/msi-crosshair-17-hx-d14vgkg-i7-14700hx-rtx-4070-32gb-1tb-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94/",
+        "categories": [
+            {
+                "id": 641,
+                "name": "מחשבים ניידים",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d"
+            },
+            {
+                "id": 12743,
+                "name": "מחשבים ניידים MSI",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-msi"
+            },
+            {
+                "id": 10947,
+                "name": "מחשבים ניידים ללא מערכת הפעלה",
+                "slug": "%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-%d7%a0%d7%99%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a2%d7%9c%d7%94"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 121,
+                "name": "סוג-מוצר",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מחשב נייד"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "ציפוי-המסך",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "מט"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "מסך-מגע",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "מערכת הפעלה",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא מערכת הפעלה"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "מצלמה",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "HD type (30fps@720p) 3D Noise Reduction (3DNR)"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "רזולוציה",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2560x1600"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "קורא-טביעת-אצבע",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "מקלדת-מוארת",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "סוללה",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "4-Cell 90 Battery (Whr)"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "משקל-התחלתי",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "2.7 kg"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "חיבורים-ויציאו",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ports 2 USB 3.2 Gen 1 ports 1 Thunderbolt™ 4 port with DisplayPort™ and Power Delivery 1 Universal Audio Jack 1 HDMI 1.4 port (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K o"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "סוג-האחריות",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "איסוף והחזרה מבית הלקוח"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "סוג-פאנל",
+                "position": 12,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "17” QHD+ (2560x1600), 240Hz, IPS-Level"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "גודל-מסך",
+                "position": 13,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "17.0\""
+                ]
+            },
+            {
+                "id": 122,
+                "name": "יצרן",
+                "position": 14,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MSI"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "נפח זכרון פנימי",
+                "position": 15,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32GB"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "סדרה",
+                "position": 16,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Crosshair"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "מודל",
+                "position": 17,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "D14VGKG"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "מעבד",
+                "position": 18,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel Core i7"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "דגם מעבד",
+                "position": 19,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® Core™ i7-14700HX 33M Cache, up to 5.50GHz"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "דגם-כרטיס-רשת-א",
+                "position": 20,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "802.11 ax Wi-Fi 6E + Bluetooth v5.3"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "נפח-זכרון-מקסימ",
+                "position": 21,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "96GB"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "סוג-אחסון",
+                "position": 22,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "PCIe NVMe M.2 SSD"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "כונן אופטי",
+                "position": 23,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "ללא"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Wi-Fi",
+                "position": 24,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Bluetooth",
+                "position": 25,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "נותן-השירות",
+                "position": 26,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "סרב פרו"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "סוג-זכרון",
+                "position": 27,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDR5 5600"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "תומך-nvidia-g-sync",
+                "position": 28,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "תומך-amd-freesync",
+                "position": 29,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "דגם מעבד גרפי",
+                "position": 30,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6 powers advanced AI with 321 AI TOPS"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "צבע",
+                "position": 31,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Cosmos Gray"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "נפח אחסון",
+                "position": 32,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "1TB"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "תקופת האחריות",
+                "position": 33,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "שנתיים"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "דור מעבד",
+                "position": 34,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "13th Generation"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "כרטיס רשת",
+                "position": 35,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "No"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "מעבד גרפי",
+                "position": 36,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "RTX 4070"
+                ]
+            },
+            {
+                "id": 130,
+                "name": "ערכת שבבים",
+                "position": 37,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Intel® HM770‎"
+                ]
+            }
+        ],
+        "variations": [],
+        "stock_status": "onbackorder"
+    }
+]
